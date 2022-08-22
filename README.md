@@ -1,12 +1,12 @@
 # ERC20 Token
-## _Crowd-selling Token 
+## Crowd-selling Token 
 
 ## **Overview**
 ERC20 coded on Solidity to fund generic trailing project.Contract was written and deployed on VSC. 
 
 ---
 ### **Transaction on EtherScan for # BraveCoin Contract Deployment**
-![RC20 BraveCoin](image/contract_deployed_verif.png)
+![](image/contract_deployed_verif.png)
 
 ### **Crowdsale Contract Deployment on VSC**
 
