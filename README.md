@@ -6,7 +6,7 @@ ERC20 coded on Solidity to fund generic trailing project.Contract was written an
 
 ---
 ### **Transaction on EtherScan for # BraveCoin Contract Deployment**
-![My Image](../image/contract_deployed_verif.png)
+![Etherscan](../image/contract_deployed_verif.PNG)
 ### **Crowdsale Contract Deployment on VSC**
 
 **Step 1. Deploy  Deployer Contract**
